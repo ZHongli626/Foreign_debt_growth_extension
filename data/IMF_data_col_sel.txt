@@ -1,0 +1,27 @@
+Portfolio_investment_assets - 'International Investment Position, Assets, Portfolio investment, Debt securities [BPM6], US Dollar'
+
+Real_Expenditure_GDP - 'National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Real, Domestic Currency'
+
+Portfolio_investment_debt - 'Balance of Payments, Financial Account, Portfolio investment, Net acquisition of financial assets, Debt securities [BPM6], US Dollar'
+
+Portfolio_investment_equity - 'Balance of Payments, Financial Account, Portfolio investment, Net acquisition of financial assets, Equity and investment fund shares [BPM6], US Dollar'
+
+Real_Public_GDP - 'National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Public Sector (General Government and Public Corporations), General Government, Real, Domestic Currency'
+
+Real_Priv_GDP - 'National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Private Sector (Corporations, Households, and Non-profit Institutions Serving Households), Gross Fixed Capital Formation, Dwellings, Real, Domestic Currency'
+
+Real_Priv_GDP_Machine - 'National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Private Sector (Corporations, Households, and Non-profit Institutions Serving Households), Gross Fixed Capital Formation, Machinery and Equipment and Weapon System, Real, Domestic Currency'
+
+Real_Expenditure_GDP_Gross_Fixed - 'National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Gross Fixed Capital Formation, Real, Domestic Currency'
+
+Portfolio_investment_liab - 'International Investment Position, Liabilities, Portfolio investment, Debt securities [BPM6], US Dollar'
+
+Real_Priv_GDP_HH - 'National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Private Sector (Households and Non-profit Institutions Serving Households), Real, Domestic Currency'
+
+Invest_net_liab - 'Balance of Payments, Analytic Presentation, Portfolio Investment, Net incurrence of liabilities, Debt Securities (excluding exceptional financing) [BPM6], US Dollar'
+
+Real_Priv_GDP_Building - 'National Accounts, Expenditure, Gross Domestic Product, Gross Capital Formation, Private Sector (Corporations, Households, and Non-profit Institutions Serving Households), Gross Fixed Capital Formation, Other Buildings and Structures, Real, Domestic Currency'
+
+Real_Priv_GDP_HH_NP - 'National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Private Sector (Households and Non-profit Institutions Serving Households), Households (Individual), Real, Domestic Currency'
+ 
+Real_Public_GDP_Gov - 'National Accounts, Expenditure, Gross Domestic Product, Final Consumption Expenditure, Public Sector (General Government and Public Corporations), General Government, Collective, Real, Domestic Currency'

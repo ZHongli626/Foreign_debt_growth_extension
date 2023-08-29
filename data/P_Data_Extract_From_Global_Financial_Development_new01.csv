@@ -1,0 +1,226 @@
+Series Name,Country Name,Country Code,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015
+Banking_crisis_dummy,East Asia & Pacific (IDA total),DEA,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Europe & Central Asia (IDA total),DEC,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,IBRD only,IBD,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,IDA total,IDA,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Latin America & Caribbean (IDA total),DLA,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Least developed countries: UN classification,LDC,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Middle East & North Africa (IDA total),DMN,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Small island developing states: UN classification,SID,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,South Asia (IDA total),DSA,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Sub-Saharan Africa (IDA total),DSS,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Afghanistan,AFG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Albania,ALB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Algeria,DZA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Andorra,AND,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Angola,AGO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Antigua and Barbuda,ATG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Argentina,ARG,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Armenia,ARM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Aruba,ABW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Australia,AUS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Austria,AUT,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Azerbaijan,AZE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Bahamas, The",BHS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Bahrain,BHR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Bangladesh,BGD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Barbados,BRB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Belarus,BLR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Belgium,BEL,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Belize,BLZ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Benin,BEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Bermuda,BMU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Bhutan,BTN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Bolivia,BOL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Bosnia and Herzegovina,BIH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Botswana,BWA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Brazil,BRA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,British Virgin Islands,VGB,,,,,,,,,,,,,,,,,,,
+Banking_crisis_dummy,Brunei Darussalam,BRN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Bulgaria,BGR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Burkina Faso,BFA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Burundi,BDI,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Cabo Verde,CPV,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Cambodia,KHM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Cameroon,CMR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Canada,CAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Cayman Islands,CYM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Central African Republic,CAF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Chad,TCD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Channel Islands,CHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Chile,CHL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,China,CHN,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Colombia,COL,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Comoros,COM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Congo, Dem. Rep.",COD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Congo, Rep.",COG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Costa Rica,CRI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Cote d'Ivoire,CIV,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Croatia,HRV,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Cuba,CUB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Curaçao,CUW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Cyprus,CYP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+Banking_crisis_dummy,Czech Republic,CZE,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Denmark,DNK,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,Djibouti,DJI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Dominica,DMA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Dominican Republic,DOM,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Ecuador,ECU,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Egypt, Arab Rep.",EGY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,El Salvador,SLV,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Equatorial Guinea,GNQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Eritrea,ERI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Estonia,EST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Eswatini,SWZ,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Ethiopia,ETH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Faroe Islands,FRO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Fiji,FJI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Finland,FIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,France,FRA,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,French Polynesia,PYF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Gabon,GAB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Gambia, The",GMB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Georgia,GEO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Germany,DEU,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,Ghana,GHA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Gibraltar,GIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Greece,GRC,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Greenland,GRL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Grenada,GRD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Guam,GUM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Guatemala,GTM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Guinea,GIN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Guinea-Bissau,GNB,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Banking_crisis_dummy,Guyana,GUY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Haiti,HTI,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Honduras,HND,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Hong Kong SAR, China",HKG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Hungary,HUN,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Iceland,ISL,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,India,IND,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Indonesia,IDN,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Iran, Islamic Rep.",IRN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Iraq,IRQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Ireland,IRL,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Isle of Man,IMN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Israel,ISR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Italy,ITA,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,Jamaica,JAM,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Japan,JPN,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Jordan,JOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Kazakhstan,KAZ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Banking_crisis_dummy,Kenya,KEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Kiribati,KIR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Korea, Dem. Rep.",PRK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Korea, Rep.",KOR,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Kosovo,XKX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Kuwait,KWT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Kyrgyz Republic,KGZ,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Lao PDR,LAO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Latvia,LVA,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Lebanon,LBN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Lesotho,LSO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Liberia,LBR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Libya,LBY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Liechtenstein,LIE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Lithuania,LTU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Luxembourg,LUX,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,"Macao SAR, China",MAC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Madagascar,MDG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Malawi,MWI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Malaysia,MYS,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Maldives,MDV,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Mali,MLI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Malta,MLT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Marshall Islands,MHL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Mauritania,MRT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Mauritius,MUS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Mexico,MEX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Micronesia, Fed. Sts.",FSM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Moldova,MDA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Banking_crisis_dummy,Monaco,MCO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Mongolia,MNG,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,Montenegro,MNE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Morocco,MAR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Mozambique,MOZ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Myanmar,MMR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Namibia,NAM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Nauru,NRU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Nepal,NPL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Netherlands,NLD,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,New Caledonia,NCL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,New Zealand,NZL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Nicaragua,NIC,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Niger,NER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Nigeria,NGA,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Banking_crisis_dummy,North Macedonia,MKD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Norway,NOR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Oman,OMN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Pakistan,PAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Palau,PLW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Panama,PAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Papua New Guinea,PNG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Paraguay,PRY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Peru,PER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Philippines,PHL,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Poland,POL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Portugal,PRT,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Puerto Rico,PRI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Qatar,QAT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Romania,ROU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Russian Federation,RUS,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,Rwanda,RWA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Samoa,WSM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,San Marino,SMR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,São Tomé and Principe,STP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Saudi Arabia,SAU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Senegal,SEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Serbia,SRB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Seychelles,SYC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Sierra Leone,SLE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Singapore,SGP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Sint Maarten (Dutch part),SXM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Slovak Republic,SVK,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Slovenia,SVN,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Solomon Islands,SLB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Somalia,SOM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,South Africa,ZAF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,South Sudan,SSD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Spain,ESP,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+Banking_crisis_dummy,Sri Lanka,LKA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,St. Kitts and Nevis,KNA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,St. Lucia,LCA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,St. Vincent and the Grenadines,VCT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Sudan,SDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Suriname,SUR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Sweden,SWE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,Switzerland,CHE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Banking_crisis_dummy,Syrian Arab Republic,SYR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Taiwan, China",TWN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Tajikistan,TJK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Tanzania,TZA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Thailand,THA,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Timor-Leste,TLS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Togo,TGO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Tonga,TON,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Trinidad and Tobago,TTO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Tunisia,TUN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Turkey,TUR,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Turkmenistan,TKM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Turks and Caicos Islands,TCA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Tuvalu,TUV,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Uganda,UGA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Ukraine,UKR,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1
+Banking_crisis_dummy,United Arab Emirates,ARE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,United Kingdom,GBR,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+Banking_crisis_dummy,United States,USA,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+Banking_crisis_dummy,Uruguay,URY,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Uzbekistan,UZB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Vanuatu,VUT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Venezuela, RB",VEN,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Vietnam,VNM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Virgin Islands (U.S.),VIR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,West Bank and Gaza,PSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,"Yemen, Rep.",YEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Zambia,ZMB,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banking_crisis_dummy,Zimbabwe,ZWE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
